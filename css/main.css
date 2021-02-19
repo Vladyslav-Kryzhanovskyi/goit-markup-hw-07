@@ -133,10 +133,6 @@ img {
   fill: #ffffff;
 }
 
-.sbsc-box {
-  margin-left: 93px;
-}
-
 .sbsc-btn {
   display: flex;
   align-items: center;
@@ -504,6 +500,20 @@ footer {
 
 footer .footer-box {
   display: flex;
+}
+
+.sbsc-box {
+  margin-left: 93px;
+}
+
+.sbsc-box .connect-title {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 
 .connect-box {
